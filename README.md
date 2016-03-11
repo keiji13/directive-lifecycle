@@ -63,4 +63,4 @@ For optimization purposes. Directives such as ng-repeat compiles repeated elemen
 
 Summary
 ----
-Directives have many mysterious features when you first come across them, but with some time and experiments like these you can at least figure out the working pieces. As always, the harder part is knowing how to apply this knowledge to the real components you need to build. More on that in the future.
+Directives have many mysterious features when you first come across them, but with some time and experiments like these you can at least figure out the working pieces. The harder part is knowing how to apply this knowledge to the real components you need to build.
